@@ -1,3 +1,14 @@
 .card {
-  /*min-height: 250px;*/
+  background-color: #337ab7;
+}
+
+.card-front {
+  text-align: center;
+  /*margin: auto;*/
+  /*visibility: visible;*/
+}
+
+.card-back {
+  margin: auto;
+  display: none;
 }
