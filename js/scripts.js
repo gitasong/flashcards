@@ -92,5 +92,6 @@ $("document").ready(function(){
   $("#attrbs .btn").click(function() {
     $("#attrbs .card-front").toggle();
     $("#attrbs .card-back").toggle();
+    console.log("test");
   });
 });
